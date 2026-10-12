@@ -1,0 +1,6 @@
+{
+  "name": "VanguardDRP - Social & App Digital Risk Protection",
+  "description": "Enterprise Digital Risk Protection platform monitoring social media and app stores for brand impersonation, fake profiles, scam apps, and typosquat look-alikes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
